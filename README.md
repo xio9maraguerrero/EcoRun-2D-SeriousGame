@@ -16,7 +16,7 @@ Enseñar de forma lúdica la **separación de residuos en la fuente** por colore
 2. Presiona **D** o la **flecha derecha** para que el personaje empiece a correr. La velocidad aumenta poco a poco.
 3. Van apareciendo residuos en el suelo. Tienes dos formas de resolverlos:
    - **Saltar** por encima para esquivarlos.
-   - **Hacer clic en la caneca correcta** mientras el residuo está en pantalla: desaparece, sumas puntos y aparece un mensaje de éxito.
+   - **Hacer clic en la caneca correcta** mientras el residuo está en pantalla: desaparece y aparece un mensaje de éxito.
 4. Pierdes **una vida** (de 3, mostradas como corazones) si:
    - Chocas con un residuo.
    - Haces clic en la caneca equivocada.
