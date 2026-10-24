@@ -68,7 +68,7 @@ Para generar un ejecutable: **File → Build Profiles**, confirma que `MainMenuS
 
 ## Build jugable
 
-Enlace de descarga / versión WebGL: `<PEGA AQUÍ EL ENLACE DE TU BUILD>`
+Enlace de descarga / versión WebGL: https://xiomara-mendoza.itch.io/ecorun-2d-serious-game
 
 ## Estructura del proyecto
 
