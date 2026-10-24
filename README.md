@@ -22,7 +22,7 @@ Enseñar de forma lúdica la **separación de residuos en la fuente** por colore
    - Haces clic en la caneca equivocada.
 5. Si pierdes las 3 vidas aparece la pantalla de **Game Over**, con las opciones **Reintentar** y **Menú**.
 
-Cada acierto suma **50 puntos**. La meta de la partida es llegar a **250 puntos** (5 aciertos).
+
 
 ## Controles
 
@@ -101,11 +101,11 @@ Assets/
 |---|---|---|
 | Movimiento | Pulsar `D` | El personaje corre y la animación cambia de Idle a Walk |
 | Salto | Pulsar `Espacio`, `W` o `↑` | El personaje salta y la animación cambia a Jump; no salta en el aire |
-| Acierto | Clic en la caneca correcta | El residuo desaparece, suma 50 puntos y aparece el mensaje de éxito |
+| Acierto | Clic en la caneca correcta | El residuo desaparece y aparece el mensaje de éxito |
 | Error de caneca | Clic en la caneca incorrecta | El residuo desaparece y se pierde un corazón |
 | Choque | Pasar por encima de un residuo sin saltar | Se pierde un corazón |
 | Game Over | Perder las 3 vidas | Aparece el panel con Reintentar y Menú, y el juego se pausa |
-| Reintentar | Pulsar Reintentar | La escena se reinicia con vidas y puntos en su estado inicial |
+| Reintentar | Pulsar Reintentar | La escena se reinicia con vidas  |
 | Menú | Pulsar Menú en el Game Over | Se carga el menú principal |
 
 ## Trabajo futuro
@@ -114,15 +114,15 @@ Assets/
 - Objetos interactivos con la tecla `E` que muestren datos sobre reciclaje.
 - Sección de créditos dentro del juego.
 - Más tipos de residuos y niveles de dificultad.
-
+- Conteo logros con puntaje.
+- nivel con 250 puntos para pasar al siguiente.
+- 
 ## Créditos
 
-- **Desarrollo, diseño y programación:** `<TU NOMBRE>`
+- **Desarrollo, diseño y programación:** `Xiomara Mendoza Guerrero`
 - **Asignatura:** Desarrollo de Contenidos Digitales y Multimedia, UTS
-- **Docente:** `<NOMBRE DE LA PROFESORA>`
-- **Arte:** `<fuente o autor de los sprites, si no son propios>`
 - **Motor:** [Unity](https://unity.com/)
 
 ## Licencia
 
-Proyecto académico sin fines comerciales. `<Agrega una licencia, por ejemplo MIT, si lo requieres>`
+Proyecto académico sin fines comerciales. 
